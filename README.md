@@ -12,3 +12,4 @@ Find all detail about the dish like Image,Ingredients,Instruction etc...
  Find the dishes you added to the favourites list. Click on the "Unfavourite" button to remove it from the favourite list.show a popup "item is successfully remove from your cart".
 
 # Order Page
+Your Order has been Recived.
